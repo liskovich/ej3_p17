@@ -1,3 +1,4 @@
+# https://httpd.apache.org/docs/trunk/mod/mod_authz_core.html
 <IfModule mod_authz_core.c>
     Require all denied
 </IfModule>
